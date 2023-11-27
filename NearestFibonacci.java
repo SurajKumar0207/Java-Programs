@@ -1,4 +1,4 @@
-package GDB;
+package javaPrograms;
 
 import java.util.*;
 public class NearestFibonacci

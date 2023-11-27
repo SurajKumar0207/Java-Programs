@@ -1,4 +1,4 @@
-
+package javaPrograms;
 import java.util.*;
 public class Long2SubString
 {
